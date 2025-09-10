@@ -3,6 +3,8 @@
 
 As a Full-Stack JavaScript Developer I had been working in American product company (multinational team, Agile/Scrum) as well as in outsourcing company. I implemented different functionality related to e-commerce and CRM, integrations with external services, created webpage layouts and endpoints, database interactions and migrations, etc. My overall experience is about 5 years.
 
+Also I have 20+ years as a sociologist (researcher and university lecturer, have a Doctor's degree). My academic work gave me strong experience in data collection, interpretation, and analysis. My primary focus is on Software Development. At the same time, I do have knowledge of SQL, SPSS, some exposure to statistics, Python for data analysis, and Tableau. Combined with my academic background as a researcher, this could make me a good fit for data-related positions such as Data Analyst.
+
 My main tech stack is:
 
 **Programming languages:** JavaScript, TypeScript, SQL
@@ -25,9 +27,9 @@ My main tech stack is:
 
 **Other technologies:** Vue.js, Java, PHP, TypeORM
 
-**Languages:** English (upper intermediate), Ukrainian (fluent), Russian (fluent), Polish (intermediate).
+**Languages:** English (upper intermediate), Ukrainian (fluent), Russian (fluent), Polish (intermediate)
 
-More about my experience: [here](https://musiyezdov.com/).
+More about my experience: [https://musiyezdov.com/](https://musiyezdov.com/)
 
 
 
