@@ -5,24 +5,29 @@ As a Full-Stack JavaScript Developer I had been working in American product comp
 
 My main tech stack is:
 
-**Programming languages:** JavaScript/TypeScript, SQL, GraphQL
+**Programming languages:** JavaScript, TypeScript, SQL
 
-**Technologies/Frameworks BE:** NodeJS, ExpressJS
+**Backend:** Node.js, Express.js, Nest.js, RESTful APIs, GraphQL
 
-**Technologies/Frameworks FE:** React.js/React-Redux/MobX, Tailwind CSS, Storybook
+**Frontend:** React.js, Redux, Redux-Saga, Next.js, MobX, HTML, CSS, Tailwind CSS, Material UI
 
-**Testing:** Unit testing for backend (Jest, Faker), autotesting for frontend (Python, Selenium)
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis
+
+**Testing:** Unit testing for backend (Jest, Faker, Postman), autotesting for frontend (Python, Selenium, Puppeteer), Storybook
+
+**Cloud & DevOps:** AWS (Lambda, S3, IAM), Docker
+
+**Data Analysis:** Statistics fundamentals, Python (data analysis), Tableau, SPSS
 
 **Methodologies:** Agile/SCRUM, Waterfall
 
-**Databases:** MongoDB, PostgreSQL, MySQL
-
 **Source Control:** Git
+
+**Other technologies:** Vue.js, Java, PHP, TypeORM
 
 **Languages:** English (upper intermediate), Ukrainian (fluent), Russian (fluent), Polish (intermediate).
 
-More about my experience: [here](https://master.dbq8278vozwfp.amplifyapp.com/).
-
+More about my experience: [here](https://musiyezdov.com/).
 
 
 
